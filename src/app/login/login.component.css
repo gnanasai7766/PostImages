@@ -1,0 +1,20 @@
+.form-control.ng-touched.ng-invalid {
+    border: 1px solid red;
+}
+.form-control.ng-touched.ng-valid {
+    border: 1px solid green;
+}
+form{
+    width:320px;
+    height: 400;
+    background:rgba(62, 69, 70, 0.603);
+    padding: 20px;
+}
+label{
+    font-weight: bolder;
+    font-size:larger;
+    color:white;
+}
+h1{
+    color:white;
+}

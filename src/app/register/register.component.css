@@ -1,0 +1,17 @@
+form{
+    width:320px;
+    height: 600;
+    background:rgba(62, 69, 70, 0.603);
+    padding: 20px;
+}
+label{
+    font-weight: bold;
+    font-size:larger;
+color:white;
+}
+#bar{
+    color:white;
+}
+h1{
+    color:white;
+}

@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.css';
+
+body{
+    background-image:url("../src/assets/yellow-926728_960_720.jpg");
+    background-size: 1040;
+    
+}
